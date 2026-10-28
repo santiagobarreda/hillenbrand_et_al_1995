@@ -7,6 +7,7 @@ The Journal of the Acoustical Society of America, 97(5), Article 5. https://doi.
 
 Hosted with permission from Jim Hillenbrand.
 
+<img width="881" height="996" alt="image" src="https://github.com/user-attachments/assets/e98e4cc4-5204-4465-913e-3470252d0741" />
 
 ## Original Readme file
 
